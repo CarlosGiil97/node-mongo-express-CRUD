@@ -18,5 +18,8 @@
   "homepage": "https://github.com/CarlosGiil97/node-mongo-express-CRUD#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
